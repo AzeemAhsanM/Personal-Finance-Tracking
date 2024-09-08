@@ -1,0 +1,62 @@
+date,amount,category,description
+01-09-2024,10000.0,Income,Salary
+02-09-2024,50.0,Expense,Groceries
+03-09-2024,500.0,Income,Freelance Work
+04-09-2024,30.0,Expense,Transportation
+05-09-2024,20.0,Expense,Coffee
+06-09-2024,200.0,Income,Consulting
+07-09-2024,75.0,Expense,Entertainment
+08-09-2024,1500.0,Income,Bonus
+09-09-2024,60.0,Expense,Utilities
+10-09-2024,90.0,Expense,Books
+11-09-2024,100.0,Income,Investment
+12-09-2024,40.0,Expense,Medical
+13-09-2024,25.0,Expense,Internet
+14-09-2024,300.0,Income,Freelance
+15-09-2024,85.0,Expense,Dining Out
+16-09-2024,600.0,Income,Consulting
+17-09-2024,35.0,Expense,Transportation
+18-09-2024,70.0,Expense,Entertainment
+19-09-2024,400.0,Income,Investment
+20-09-2024,100.0,Expense,Groceries
+21-09-2024,50.0,Expense,Utilities
+22-09-2024,200.0,Income,Bonus
+23-09-2024,60.0,Expense,Medical
+24-09-2024,90.0,Expense,Books
+25-09-2024,300.0,Income,Consulting
+26-09-2024,80.0,Expense,Transportation
+27-09-2024,40.0,Expense,Internet
+28-09-2024,500.0,Income,Investment
+29-09-2024,70.0,Expense,Dining Out
+30-09-2024,30.0,Expense,Entertainment
+01-10-2024,1000.0,Income,Freelance
+02-10-2024,20.0,Expense,Coffee
+03-10-2024,1500.0,Income,Consulting
+04-10-2024,45.0,Expense,Transportation
+05-10-2024,75.0,Expense,Utilities
+06-10-2024,200.0,Income,Bonus
+07-10-2024,60.0,Expense,Medical
+08-10-2024,30.0,Expense,Internet
+09-10-2024,400.0,Income,Investment
+10-10-2024,50.0,Expense,Books
+11-10-2024,90.0,Expense,Dining Out
+12-10-2024,300.0,Income,Freelance
+13-10-2024,70.0,Expense,Entertainment
+14-10-2024,500.0,Income,Consulting
+15-10-2024,40.0,Expense,Transportation
+16-10-2024,20.0,Expense,Medical
+17-10-2024,250.0,Income,Investment
+18-10-2024,50.0,Expense,Utilities
+19-10-2024,30.0,Expense,Internet
+20-10-2024,1500.0,Income,Bonus
+21-10-2024,75.0,Expense,Groceries
+22-10-2024,60.0,Expense,Dining Out
+23-10-2024,200.0,Income,Consulting
+24-10-2024,40.0,Expense,Entertainment
+25-10-2024,80.0,Expense,Medical
+26-10-2024,300.0,Income,Investment
+27-10-2024,90.0,Expense,Transportation
+28-10-2024,50.0,Expense,Internet
+29-10-2024,500.0,Income,Freelance
+30-10-2024,60.0,Expense,Books
+31-10-2024,30.0,Expense,Entertainment
